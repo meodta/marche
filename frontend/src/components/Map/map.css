@@ -1,0 +1,8 @@
+path.active {
+    fill: #F59200;
+    transition: all 300ms ease-in-out;
+}
+
+path.nonactive {
+    fill: inherit;
+}
